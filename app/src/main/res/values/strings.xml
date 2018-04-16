@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MobileFinalProject</string>
+
+    <string name="activity_main_title">Gerenciador de Opções Binárias</string>
+    <string name="activity_day_infos_title">Dados Diários</string>
+    <string name="activity_new_operation">Nova Operação</string>
+    <string name="activity_update_operation">Modificar Operação</string>
+    <string name="activity_show_operations">Operações Salvas</string>
+    <string name="activity_help_title">Ajuda</string>
+
+    <string name="txtViewTitleDayAmount">Banca do Dia</string>
+    <string name="txtViewTitleOpPercent">Operação (%)</string>
+    <string name="editTxtValueDayAmount" translatable="false">0.0</string>
+    <string name="editTextValueOpPercentage" translatable="false">1.8</string>
+    <string name="txtViewTitleCurrentAmount">Banca Atual</string>
+    <string name="editTextValueCurrentAmount" translatable="false">0.0</string>
+    <string name="buttonMenuOp">Iniciar</string>
+    <string name="txtViewTitleDayProfit">Lucro do Dia</string>
+    <string name="txtViewTitlePercentDayProfit">Lucro do Dia (%)</string>
+    <string name="txtViewValueDayProfit" translatable="false">0.0</string>
+    <string name="txtViewValuePercentDayProfit" translatable="false">0.0</string>
+    <string name="buttonNewOp">Nova Operação</string>
+    <string name="txtViewTitleOpValue">Valor Base</string>
+    <string name="txtViewTitlePayout" translatable="false">Payout (%)</string>
+    <string name="txtViewTitleMartingale" translatable="false">Martingale?</string>
+    <string name="txtViewValueOpValue" translatable="false">0.0</string>
+    <string name="editTextValuePayout" translatable="false">80</string>
+    <string name="editTextValueMartingale" translatable="false">0</string>
+    <string name="radioButtonWin">Acerto</string>
+    <string name="RadioButtonLoss">Erro</string>
+    <string name="buttonCancel">Cancelar</string>
+    <string name="buttonSave">Salvar</string>
+    <string name="txtViewTitleOpResult">Resultado da Operação</string>
+    <string name="txtViewValueOpResult" translatable="false">0.0</string>
+    <string name="buttonCalculateResult">Calcular Resultado</string>
+    <string name="buttonCalculateProfit">Calcular Lucros</string>
+    <string name="spinner_op_0" translatable="false">0</string>
+    <string name="spinner_op_1" translatable="false">1</string>
+    <string name="spinner_op_2" translatable="false">2</string>
+    <string name="spinner_op_3" translatable="false">3</string>
+    <string name="buttonOpen">Abrir</string>
+    <string name="buttonDelete">Apagar</string>
+    <string name="result">Resultado</string>
+
+    <string name="menu_help">Ajuda</string>
+
+    <string name="warning_txt">Aviso</string>
+    <string name="ok_txt" translatable="false">Ok</string>
+    <string name="confirm_txt">Confirmação</string>
+    <string name="yes_txt">Sim</string>
+    <string name="no_txt">Não</string>
+
+    <string name="delete_confirmation_message">Deseja mesmo apagar?</string>
+    <string name="buttonShowOperations">Mostrar Operacoes</string>
+    <string name="txtViewTitleOpId" translatable="false">Id</string>
+    <string name="txtViewValueOpId" translatable="false">Id</string>
+    <string name="txtViewTitleTimeStamp">Hora e Data</string>
+    <string name="txtViewValueTimeStamp">Hora e Data</string>
+    <string name="txtViewTitleBaseValue">Valor Base</string>
+    <string name="editTextValueBaseValue" translatable="false">0.0</string>
+    <string name="txtViewTitleFinalProject">Projeto Final de Programação Móvel</string>
+    <string name="txtViewProjectName">Gerenciador de Opções Binárias</string>
+    <string name="txtViewProjectAuthor">Por: Lucas Andrade de Oliveira Reis</string>
+    <string name="txtViewTitleObjectives">Objetivos:</string>
+    <string name="txtViewObjectiveOne">Gerar valores fixos para cada operação</string>
+    <string name="txtViewObjectiveTwo">Mostrar lucro atual</string>
+    <string name="txtViewObjectiveThree">Armazenar os dados das operações</string>
+    <string name="buttonBack">Voltar</string>
+</resources>

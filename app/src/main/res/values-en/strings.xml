@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileFinalProject</string>
+    <string name="RadioButtonLoss">Loss</string>
+    <string name="activity_day_infos_title">Daily Infos</string>
+    <string name="activity_main_title">Binary Options Manager</string>
+    <string name="activity_new_operation">New Operation</string>
+    <string name="activity_show_operations">Saved Operations</string>
+    <string name="activity_update_operation">Modify Operation</string>
+    <string name="buttonCalculateProfit">Calculate Profit</string>
+    <string name="buttonCalculateResult">Calculate Result</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="buttonMenuOp">Start</string>
+    <string name="buttonNewOp">New Operation</string>
+    <string name="buttonOpen">Open</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonShowOperations">Show Operations</string>
+    <string name="confirm_txt">Confirmation</string>
+    <string name="delete_confirmation_message">Do you really want to delete it?</string>
+    <string name="no_txt">No</string>
+    <string name="radioButtonWin">Win</string>
+    <string name="txtViewTitleBaseValue">Base Value</string>
+    <string name="txtViewTitleCurrentAmount">Current Amount</string>
+    <string name="txtViewTitleDayAmount">Day Amount</string>
+    <string name="txtViewTitleDayProfit">Profit of the Day</string>
+    <string name="txtViewTitleOpPercent">Operation (%)</string>
+    <string name="txtViewTitleOpResult">Operation Result</string>
+    <string name="txtViewTitleOpValue">Base Value</string>
+    <string name="txtViewTitlePercentDayProfit">Profit of the Day (%)</string>
+    <string name="txtViewTitleTimeStamp">Time and Date</string>
+    <string name="txtViewValueTimeStamp">Time and Date</string>
+    <string name="warning_txt">Warning</string>
+    <string name="result">Result</string>
+    <string name="yes_txt">Yes</string>
+    <string name="menu_help">Help</string>
+    <string name="activity_help_title">Help</string>
+    <string name="buttonBack">Back</string>
+    <string name="txtViewObjectiveOne">Generate fixed values for every operation</string>
+    <string name="txtViewObjectiveThree">Store all the operation data</string>
+    <string name="txtViewObjectiveTwo">Show current profit</string>
+    <string name="txtViewProjectAuthor">By: Lucas Andrade de Oliveira Reis</string>
+    <string name="txtViewProjectName">Binary Options Manager</string>
+    <string name="txtViewTitleFinalProject">Mobile Programming Final Project</string>
+    <string name="txtViewTitleObjectives">Objectives:</string>
+</resources>

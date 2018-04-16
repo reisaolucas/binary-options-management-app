@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="martingale_array">
+        <item>@string/spinner_op_0</item>
+        <item>@string/spinner_op_1</item>
+        <item>@string/spinner_op_2</item>
+        <item>@string/spinner_op_3</item>
+    </string-array>
+</resources>
